@@ -1,8 +1,8 @@
-# MediCenter
+# MediNovaCenter
 
 ### Get healthy news and solutions to your problems from our experts!
 Visit Our Website :
-[https://medical-project-faa8f.web.app/](https://medical-project-faa8f.web.app/).
+[https://medical-project-faa8f.web.app/](https://medical-project-faa8f.web.app/)
 
 
 Welcome to MediNovacenter a full-service diagnostic center and medical care clinic located on the north side of Chicago in the historic neighborhood. We provide fast effective and affordable treatment for non-life threatening illnesses and injuries that need attention right away by certified specialists. Entrust your health our doctors. Medical excellence every day. Limitless possibilities medicines are available here Exceptional people.Exceptional care. Organize and visualize your week with built-in timetable.
@@ -25,4 +25,3 @@ The Family Birth Center at MediNovacenter is a unique, full-service facility off
 * No appointment needed, most patients are seen, treated and released in about 60 minutes.
 * Get healthy news and solutions to your problems from our experts!
 
-# healthcare-related-website-masumbillaah
